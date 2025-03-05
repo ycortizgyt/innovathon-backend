@@ -1,0 +1,14 @@
+target/
+build/
+generated/
+.gradle/
+.nb-gradle/
+*.log
+*.cmd
+*.bat
+.project
+.settings/
+.idea/
+
+*.hprof
+.env

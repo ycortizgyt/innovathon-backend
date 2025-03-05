@@ -1,0 +1,26 @@
+{
+  "name": "innovathon-backend",
+  "version": "1.0.0",
+  "description": "innovathon backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ycortizgyt/innovathon-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ycortizgyt/innovathon-backend/issues"
+  },
+  "homepage": "https://github.com/ycortizgyt/innovathon-backend#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mysql2": "^2.2.0",
+    "cors": "^2.8.5"
+  }
+}
